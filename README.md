@@ -53,9 +53,9 @@ EVM_Project/
 
 <h2>🧭 Program Flow</h2>
 
-
+<code>
 <img src="./assets/display.png" alt="display">
-
+</code>
 
 
 <h2>🧑‍💻 How to Run</h2>
@@ -68,14 +68,15 @@ EVM_Project/
 
 <h2>🧭 REGISTER VOTER </h2>
 
-
+<code>
   <img src="./assets/register voter.png" alt="REGISTER VOTER">
-
+</code>
 
 <h2>🧭 CAST VOTE</h2>
 
+<code>
 <img src="./assets/cast vote.png" alt="CASTVOTE">
-
+</code>
 
 
 <h2>✅ Example Output (Results Section)</h2>
